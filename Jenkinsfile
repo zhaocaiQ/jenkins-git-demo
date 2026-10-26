@@ -23,3 +23,5 @@ pipeline {
         }
     }
 }
+
+echo 'GitHub 자동 배포 연동 테스트'
